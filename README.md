@@ -1,6 +1,6 @@
 # Test6
 
-Shows how source files of a package can be obtained from Stackage/Hackage as a local copy and than can be embedded in an existing project.
+Shows how source files of a package that has been obtained from Stackage/Hackage (by stach unpack, as a local copy), and is embedded in an existing project.
 
 ## Use case
 
