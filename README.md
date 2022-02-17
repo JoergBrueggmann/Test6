@@ -4,9 +4,9 @@ Shows how source files of a package that has been obtained from Stackage/Hackage
 
 ## Use case
 
-One wants to use the original sources of a package (of the Stackage/Hackage repository), to modify it's files locally, and in order to investigate or contribute to improvement.
+One wants to use the original sources of a package (of the Stackage/Hackage repository), to modify it's files locally, and in order to investigate or contribute to improvement - with using tarball files.
 
-## Procedure
+## Procedure - with using tarball files
 
     unpack the package that should be obtained as source code
         command:
